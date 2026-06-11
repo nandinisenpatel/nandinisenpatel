@@ -56,4 +56,6 @@ Designed and scaled a structured program for educators:
 ---
 
 ## 💡 Philosophy
-> "Design systems once. Scale them globally."
+Munger's famous guiding principle for this was: "Invert, always invert."
+
+Charlie Munger’s "inversion rule": a problem-solving mental model that involves flipping a situation or challenge upside down and looking at it backwards. Instead of asking how to achieve a goal, you ask what would guarantee failure and systematically avoid those traps. 
